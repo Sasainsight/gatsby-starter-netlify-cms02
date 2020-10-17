@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Customer Insight Analyst',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      '人々の行動の源泉となる欲望は何か？と日々問い続けながら、人間を探究する職人のサイト',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
