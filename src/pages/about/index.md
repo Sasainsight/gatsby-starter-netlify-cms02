@@ -1,19 +1,35 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: 活動領域
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### **欲望研究**
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+行動の源泉となる『欲望』を研究。
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### **ライフハック術**
+
+やりたいことはすべてやるための工夫が詰まった倉庫\
+管理人のPDCA術を公開。
+
+### 仕事関連メモ
+
+本業はデジタルマーケティングコンサルティングの管理人。\
+仕事に関係する話題をメモ
+
+### 読書メモ
+
+趣味である読書のメモやアウトプットを投稿。
+
+### 写真
+
+趣味である写真を投稿\
+Sigma fpを通じて覗く世界の断片をご提供
+
+
+
+### 日記
+
+日々の活動を更新。
