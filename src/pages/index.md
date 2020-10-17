@@ -2,19 +2,13 @@
 templateKey: index-page
 title: Custmer Insight Analyst
 image: /img/42f3c339-18d6-4aa3-b60c-2b6b3650e44e.jpeg
-heading: Great coffee with a conscience
+heading: 欲望とは何か？
 subheading: 欲望マンダリストへの道
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Customer Insight Analyst
+  description: |
+    人々における行動の源泉となる欲望は何か？と日々問い続けながら、人間を探究する職人
+description: 欲望（desire）とは、人間（ヒト）、動物が、それを満たすために何らかの行動・手段を取りたいと思わせそれが満たされたときには快を感じる感覚のことである。
 intro:
   blurbs:
     - image: /img/coffee.png
