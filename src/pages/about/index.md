@@ -1,9 +1,9 @@
 ---
 templateKey: about-page
 path: /about
-title: 活動領域
+title: 更新領域
 ---
-
+<br>
 
 ### **欲望研究**
 
@@ -27,8 +27,6 @@ title: 活動領域
 
 趣味である写真を投稿\
 Sigma fpを通じて覗く世界の断片をご提供
-
-
 
 ### 日記
 
