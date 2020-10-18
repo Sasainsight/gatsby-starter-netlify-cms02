@@ -38,21 +38,13 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: 活動
+  description: 次世代のインフラを作成
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: 写真撮影
+  description: 友人や先輩方と移動するごとに写真を撮っていると、自ずと褒められることが多く調子にのってカメラの世界へ足を踏み入れました。そこにあったものは、レンズ沼。写真も好きですが、何よりSigmafpのエッセンシャルに考え抜かれた要素に惚れています。
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: 風景画像
     image: /img/products-grid3.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
